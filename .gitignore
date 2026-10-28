@@ -1,0 +1,7 @@
+﻿.build-profile/
+.build-stage/
+.venv-build/
+__pycache__/
+*.exe
+*.log
+tmp_next_data.txt
